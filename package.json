@@ -1,0 +1,17 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "egg-sequelize": "^6.0.0",
+    "koa": "^2.13.1",
+    "koa-router": "^10.0.0",
+    "mysql2": "^2.2.5"
+  }
+}
